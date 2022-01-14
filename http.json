@@ -1,0 +1,33 @@
+{
+    "protocolo-http": {
+        "url": "www.google.com.co",
+        "method": "POST",
+        "headers": {
+            "content-type": "application/json"
+        },
+        "body": {
+            "Id": 1,
+            "Titulo": "oscar"
+        }
+    },
+    "formato-json": {
+        "key": "valo",
+        "otrake": "otrovalo",
+        "acepto": true,
+        "nuevo": false,
+        "telefonos": [
+            "3125588665",
+            "6191020"
+        ],
+        "direcciones": [
+            {
+                "ciudad": "Giron",
+                "direccion": "caleasdad"
+            },
+            {
+                "ciudad": "Giron",
+                "direccion": "caleasdad"
+            }
+        ]
+    }
+}
